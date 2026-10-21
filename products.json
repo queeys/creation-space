@@ -1,0 +1,48 @@
+{
+  "source": "Creation Space Shopee listings",
+  "reviewed": "2026-10-21",
+  "shopUrl": "https://shopee.sg/thecreationspace",
+  "note": "Static editorial snapshot. Photos show sample customisations. No live pricing or inventory sync.",
+  "products": [
+    {
+      "id": "56569544921",
+      "name": "Car plate keychain",
+      "category": "keychains",
+      "label": "PERSONALISED / CAR PLATES",
+      "image": "car-plate-keychain.jpg",
+      "alt": "Creation Space car plate keychain listing image showing red, black and yellow sample designs",
+      "description": "Your vehicle number, with raised lettering. Available in red, black, or yellow.",
+      "enquiry": "Car plate keychain"
+    },
+    {
+      "id": "51919419443",
+      "name": "QR code sign & stand",
+      "category": "displays",
+      "label": "BUSINESS / EVENTS",
+      "image": "qr-code-sign.jpg",
+      "alt": "Creation Space custom QR code tabletop sign with matching stand",
+      "description": "Your QR code and wording on a tabletop display, with a matching stand for businesses, weddings, or events.",
+      "enquiry": "Custom QR code sign with stand"
+    },
+    {
+      "id": "52069302564",
+      "name": "Name keychain / bag tag",
+      "category": "keychains",
+      "label": "PERSONALISED / NAME TAGS",
+      "image": "name-keychain.jpg",
+      "alt": "Creation Space personalised name keychain and bag tag sample designs",
+      "description": "Choose your name or text, font, and letter and base colours. Confirm available options when enquiring.",
+      "enquiry": "Personalised name keychain or bag tag"
+    },
+    {
+      "id": "48269203680",
+      "name": "Custom clicker keychain",
+      "category": "keychains",
+      "label": "PERSONALISED / CLICKERS",
+      "image": "clicker-keychain.jpg",
+      "alt": "Creation Space custom 3D printed clicker keychain sample designs",
+      "description": "A playful PLA keychain with a satisfying click. Personalise the design and colours, with one to five letter options.",
+      "enquiry": "Custom clicker keychain"
+    }
+  ]
+}
